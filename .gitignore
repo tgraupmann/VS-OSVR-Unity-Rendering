@@ -1,0 +1,7 @@
+.hg/
+.hgignore
+.hgtags
+NativeRenderingPlugin/PluginSource/build/
+NativeRenderingPlugin/PluginSource/projects/VisualStudio2015/RenderingPlugin.VC.db
+NativeRenderingPlugin/PluginSource/projects/VisualStudio2015/.vs/RenderingPlugin/v14/.suo
+*.opendb
